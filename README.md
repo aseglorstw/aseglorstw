@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @aseglorstw
 - I'm from Ufa, Russia
-- I am currently studying at Faculty of Electrical Engineering at CTU in Prague 
+- I am studying at Faculty of Electrical Engineering at CTU in Prague 
