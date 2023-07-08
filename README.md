@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Robert Bakhtigariev
+My name is Robert Bakhtigariev
 ===========================================================================================================================================
 
 Artificial intelligence and robotics.
@@ -6,8 +6,8 @@ Artificial intelligence and robotics.
 
 I am from Ufa, Russian Federation. I am a second year electrical engineering student at ČVUT in Prague.
 
-*   🌍  I'm based in Prague, Czech Republic
-*   ✉️  You can contact me at telegram @aseglorstw
+* I'm based in Prague, Czech Republic
+* You can contact me at telegram @aseglorstw
 
 Languages and tools:
 -------------------------------------
