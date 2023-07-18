@@ -11,8 +11,7 @@ I am from Ufa, Russian Federation. I am a second year electrical engineering stu
 
 Languages and tools:
 -------------------------------------
-<img src="https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java&logoColor=white"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+<img src="https://img.shields.io/badge/ROS-black?style=for-the-badge&logo=ROS&logoColor=white"/> <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Javas&logoColor=white"/> <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/> 
 
 
 
