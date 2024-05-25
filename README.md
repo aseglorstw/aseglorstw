@@ -1,8 +1,5 @@
-My name is Robert Bakhtigariev
+Robert Bakhtigariev
 ===========================================================================================================================================
-
-Artificial intelligence and robotics.
--------------------------------------
 
 Second-year student majoring in Artificial Intelligence and Computer Science at CTU in Prague.
 
