@@ -1,7 +1,7 @@
 Robert Bakhtigariev
 ===========================================================================================================================================
 
-Second-year student majoring in Artificial Intelligence and Computer Science at CTU in Prague.
+I am a third-year student majoring in Artificial Intelligence and Computer Science at the Czech Technical University in Prague. In addition to my studies, I work as a student researcher in the Vision for Robotics and Autonomous Systems (VRAS) laboratory and with Porsche Engineering.
 
 You can contact me via email at robert.bakhtigariev@gmail.com.
 
